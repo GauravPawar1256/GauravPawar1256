@@ -1,16 +1,118 @@
-<h1 align="center">Hi 👋, I'm Gaurav Pawar</h1>
-<h3 align="center">💻 Aspiring Data Analyst | Python Developer | Frontend Developer</h3>
+# 👋 Hi, I'm Gaurav Pawar
 
-- 🌱 I’m currently learning **💻 Aspiring Data Analyst**
+### 💻 Aspiring Data Analyst | Python Developer | Frontend Developer
 
-- 💬 Ask me about **I'm a Computer Science graduate passionate about programming, data analytics, and building real-world applications.**
-
-- 📫 How to reach me **pawargaurav1256@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gaurav-pawar-0962a8374" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav-pawar-0962a8374" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;Python+Developer;Frontend+Developer;Always+Learning+New+Things!" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
+
+## 🚀 About Me
+
+- 🎓 Computer Science Graduate (B.Sc. CS)
+- 📊 Passionate about Data Analytics and Data Visualization.
+- 🐍 Learning Python, Pandas, NumPy and SQL.
+- 💻 Interested in building real-world applications.
+- 📈 Exploring Excel, Power BI and Tableau.
+- 🌱 Continuously improving my technical skills.
+- 📫 Reach me at: **pawargaurav1256@gmail.com**
+
+---
+
+## 🛠️ Languages and Tools
+
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,js" />
+</p>
+
+### Data Analytics
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+</p>
+
+### Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,figma" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GauravPawar1256&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauravPawar1256&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+## 🔥 GitHub Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=GauravPawar1256&theme=tokyonight&hide_border=true" />
+</p>
+
+## 📈 Contribution Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GauravPawar1256&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 📁 GitHub Profile Statistics
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GauravPawar1256&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/GauravPawar1256?label=Followers&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FGauravPawar1256&query=%24.public_repos&label=Public%20Repositories&style=for-the-badge&color=success" />
+</p>
+
+---
+
+## 💼 Featured Projects
+
+- 📊 **Data Cleaner Agent** – Automated dataset cleaning using Python, Pandas and Streamlit.
+- 🌾 **Farm Management System** – A system to manage farm activities and expenses.
+- 👨‍💼 **Employee Management System** – Employee record management application.
+- 📝 **News Blog Application** – A category-based news and blogging platform.
+
+Explore more projects on my [GitHub Repositories](https://github.com/GauravPawar1256?tab=repositories).
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/gaurav-pawar-0962a8374">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:pawargaurav1256@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/GauravPawar1256">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ### 💡 "Learning every day, building every day, growing every day."
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile! Have a great day!
+</p>
