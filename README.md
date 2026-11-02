@@ -53,9 +53,11 @@
 
 ## 📊 GitHub Analytics
 
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GauravPawar1256&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauravPawar1256&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GauravPawar1256&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GauravPawar1256&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
 ## 🔥 GitHub Contribution Streak
